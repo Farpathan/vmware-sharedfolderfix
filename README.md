@@ -1,6 +1,6 @@
 # VMware Shared Folders Fix
 
-A simple script to fix VMware shared folder not displaying after installing vmware-tools
+A simple script to fix VMware shared folder not displaying after installing vmware-tools. Additionally, the script also give you the option to automatically add a bookmark in the file manager to the shared folder directory.
 
 ## Prerequisites
 
