@@ -4,7 +4,7 @@ A simple script to fix VMware shared folder not displaying after installing vmwa
 
 ## Prerequisites
 
-- **vmware-tools** should be installed
+ **vmware-tools** should be installed
 
 ## Usage
 
